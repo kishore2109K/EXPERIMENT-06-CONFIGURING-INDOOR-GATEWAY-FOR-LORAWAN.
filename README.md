@@ -1,4 +1,5 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## REG NO : 212223040101
 
 ## Aim: 
 
@@ -120,7 +121,9 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![Screenshot (9)](https://github.com/user-attachments/assets/22194912-7af6-4d2f-978d-2aa7b370b9ff)
 
+![iot_2](https://github.com/user-attachments/assets/e6014c5f-d423-4cf5-b0ac-ab7ae9d31134)
 
 
 ## Result: 
